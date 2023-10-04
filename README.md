@@ -15,7 +15,7 @@ A web page displaying a 3D object using Google's Model Viewer.
 
 ## Demo
 
-You can view the 3D object and its description on the live website [here](https://your-website-link.com).
+You can view the 3D object and its description on the live website [here](https://3-d-object.vercel.app/).
 
 ## Technologies Used
 
